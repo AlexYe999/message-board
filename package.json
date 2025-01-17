@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexYe999/message-board/issues"
   },
-  "homepage": "https://github.com/AlexYe999/message-board#readme"
+  "homepage": "https://github.com/AlexYe999/message-board#readme",
+  "devDependencies": {
+    "express": "^4.21.2"
+  }
 }
